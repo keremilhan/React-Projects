@@ -8,3 +8,4 @@
 | 03  | [Formik Exercise](https://github.com/keremilhan/Form-with-Formik)                       | [Webpage](https://main--form-formik.netlify.app/)                   |
 | 04  | [Tour Places](https://github.com/keremilhan/Tour-Places)                                | [Webpage](https://tour-places-app.netlify.app/)                     |
 | 05  | [Task Tracker](https://github.com/keremilhan/task-tracker)                              | [Webpage](https://task-tracker-with-json-server.herokuapp.com/)     |
+| 06  | [Styled Components Exercise](https://github.com/keremilhan/styled-components-project)   | [Webpage](https://static-page-react.netlify.app/)                   |
