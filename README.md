@@ -9,3 +9,4 @@
 | 04  | [Tour Places](https://github.com/keremilhan/Tour-Places)                                | [Webpage](https://tour-places-app.netlify.app/)                     |
 | 05  | [Task Tracker](https://github.com/keremilhan/task-tracker)                              | [Webpage](https://task-tracker-with-json-server.herokuapp.com/)     |
 | 06  | [Styled Components Exercise](https://github.com/keremilhan/styled-components-project)   | [Webpage](https://static-page-react.netlify.app/)                   |
+| 07  | [Recipe App](https://github.com/keremilhan/recipe-app)                                  | [Webpage](https://recipe-with-react.netlify.app/)                   |
