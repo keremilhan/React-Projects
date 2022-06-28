@@ -10,4 +10,5 @@
 | 05  | [Task Tracker](https://github.com/keremilhan/task-tracker)                              | [Webpage](https://task-tracker-with-json-server.herokuapp.com/)     |
 | 06  | [Styled Components Exercise](https://github.com/keremilhan/styled-components-project)   | [Webpage](https://static-page-react.netlify.app/)                   |
 | 07  | [Recipe App](https://github.com/keremilhan/recipe-app)                                  | [Webpage](https://recipe-with-react.netlify.app/)                   |
-| 08  | [Todo-App](https://github.com/keremilhan/todo-app-react)                                | [Webpage](https://todo-app-with-react-reducer.netlify.app/)         |
+| 08  | [Todo App](https://github.com/keremilhan/todo-app-react)                                | [Webpage](https://todo-app-with-react-reducer.netlify.app/)         |
+| 09  | [Expense Tracker](https://github.com/keremilhan/expense-tracker)                        | [Webpage](https://expense-trackerapp-with-react.netlify.app/)       |
