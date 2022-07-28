@@ -13,4 +13,4 @@
 | 08  | [Todo App](https://github.com/keremilhan/todo-app-react)                                | [Webpage](https://todo-app-with-react-reducer.netlify.app/)         |
 | 09  | [Expense Tracker](https://github.com/keremilhan/expense-tracker)                        | [Webpage](https://expense-trackerapp-with-react.netlify.app/)       |
 | 10  | [Movie App](https://github.com/keremilhan/movie-app)                                    | [Webpage](https://movie-app-with-reactjs.netlify.app/)              |
-| 11  | [News App(Redux Toolkit)](https://github.com/keremilhan/redux-toolkit-project)          | [No Live Demo]()                                                    |
+| 11  | [News App(Redux Toolkit)](https://github.com/keremilhan/redux-toolkit-project)          | [No Live Demo](https://github.com/keremilhan/redux-toolkit-project) |
