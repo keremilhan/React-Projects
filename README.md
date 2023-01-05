@@ -17,3 +17,4 @@
 | 12  | [Fire-Contact-App](https://github.com/keremilhan/fire-contact-app)                      | [Webpage](https://master--firebase-contact-app-kerem.netlify.app/)  |
 | 13  | [Website with Slider](https://github.com/keremilhan/case-study)                         | [Webpage](https://case-study-kerem-ilhan.netlify.app/)              |
 | 14  | [Countries Table](https://github.com/keremilhan/countries-api)                          | [Webpage](https://countries-api-project-kerem.netlify.app/)         |
+| 15  | [News/Anouncement App](https://github.com/keremilhan/news-anouncements)                 | [Webpage](https://news-anouncements.netlify.app/)                   |
